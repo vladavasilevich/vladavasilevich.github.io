@@ -1,0 +1,10 @@
+.try-demo-btn {
+	width: 180px;
+	height: 60px;
+	background: #f69679;
+	border: none;
+	border-radius: 3px;
+	color: #ffffff;
+	font-size: 12pt;
+	padding: 20px;	
+}

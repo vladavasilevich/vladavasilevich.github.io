@@ -1,0 +1,16 @@
+body {
+	background-color: #e8b968;
+}
+.download-now-btn {
+	width: 280px;
+	height: 70px;
+	background: #e8b968;
+	border: 3px solid #ffffff;
+	border-radius: 3px;
+	color: #ffffff;
+	font-size: 12pt;
+	padding: 20px;
+}
+.iPad {
+	float: right;
+}

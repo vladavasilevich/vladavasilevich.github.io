@@ -1,0 +1,14 @@
+.square-pink {
+	background-color: #f69679;
+	width: 337px;
+	height: 337px;
+	float: left;
+	margin-left: 213px;
+}
+.square-orange {
+	width: 337px;
+	height: 337px;
+	background-color: #e8b968;
+	float: left;
+	margin-left: 22px;
+}

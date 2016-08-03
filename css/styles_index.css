@@ -1,0 +1,15 @@
+body {
+	background-image: url(../images/background.png);
+	background-size: 100%;
+	color: #ffffff;
+}
+.get-started-btn {
+	width: 250px;
+	height: 72px;
+	background: #7accc8;
+	border: none;
+	border-radius: 3px;
+	color: #ffffff;
+	font-size: 15pt;
+	padding: 20px;	
+}
